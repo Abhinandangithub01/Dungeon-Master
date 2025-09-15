@@ -1,0 +1,5 @@
+{
+  "name": "Dungeon Master",
+  "description": "An interactive Dungeons & Dragons-style text-based adventure game where an AI Dungeon Master generates endlessly varied maps, characters, and scenarios in real-time.",
+  "requestFramePermissions": []
+}
